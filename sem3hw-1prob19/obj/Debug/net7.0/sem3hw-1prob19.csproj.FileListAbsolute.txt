@@ -1,0 +1,15 @@
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\bin\Debug\net7.0\sem3hw-1prob19.exe
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\bin\Debug\net7.0\sem3hw-1prob19.deps.json
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\bin\Debug\net7.0\sem3hw-1prob19.runtimeconfig.json
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\bin\Debug\net7.0\sem3hw-1prob19.dll
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\bin\Debug\net7.0\sem3hw-1prob19.pdb
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\sem3hw-1prob19.csproj.AssemblyReference.cache
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\sem3hw-1prob19.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\sem3hw-1prob19.AssemblyInfoInputs.cache
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\sem3hw-1prob19.AssemblyInfo.cs
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\sem3hw-1prob19.csproj.CoreCompileInputs.cache
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\sem3hw-1prob19.dll
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\refint\sem3hw-1prob19.dll
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\sem3hw-1prob19.pdb
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\sem3hw-1prob19.genruntimeconfig.cache
+D:\geekbrains\знакомство c#\sem3\sem3hw\sem3hw-1prob19\obj\Debug\net7.0\ref\sem3hw-1prob19.dll
